@@ -1,0 +1,40 @@
+;EXTENTS: -367.000 -290.000 508.000 285.000 
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : C:/Users/bbleker/ee/board/cros_ref_designs/hwsec/hyp_swizzle/hyp_ot/oshw_evt/worklib/hyp_ot_oshw/physical/mfg/hyp_ot_evt_042624_1-4.rou for board C:/Users/bbleker/ee/board/cros_ref_designs/hwsec/hyp_swizzle/hyp_ot/oshw_evt/worklib/hyp_ot_oshw/physical/#Taaaabn06272.tmp, layers TOP to BOTTOM
+%
+G90
+F1
+M16
+T01
+M16
+G00X2700500Y-2988500
+G40
+M15
+G01X2700500Y-2928500
+M16
+G00X2664500Y-3583490
+G40
+M15
+G01X2664500Y-3523490
+M16
+G00X3526500Y-2988500
+G40
+M15
+G01X3526500Y-2928500
+M16
+G00X3562500Y-3583490
+G40
+M15
+G01X3562500Y-3523490
+M16
+T02
+M16
+G00X3458500Y-2833500
+G40
+M15
+G01X3488500Y-2833500
+M16
+G40
+M30
