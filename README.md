@@ -38,6 +38,8 @@ The OpenTitan Hyperdebug Shield contains:
 - 4x Zio connectors
 - 1x JTAG connector
 
+### Block Diagram
+
 ![hyp_ot_bd](/drawings/hyp_ot_blockdiagram.png)
 
 Note: 
