@@ -16,9 +16,7 @@ docs](https://opentitan.org/book) for more information about the project.
 ## About this repository
 
 This repository contains the manufacturing files for the OpenTitan Hyperdebug Shield development platform, codenamed 'TEACUP' 
-created as part of the OpenTitan project. It is structured as a monolithic repository, or "monorepo",
-where all components live in one repository. It exists to enable collaboration
-across partners participating in the OpenTitan project.
+created as part of the OpenTitan project. It exists to enable collaboration across partners participating in the OpenTitan project.
 
 ### What is the OpenTitan Hyperdebug Shield?
 
