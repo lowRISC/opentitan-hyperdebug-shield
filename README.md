@@ -4,27 +4,17 @@
 
 ## About the project
 
-[OpenTitan](https://opentitan.org) is an open source silicon Root of Trust
-(RoT) project.  OpenTitan will make the silicon RoT design and implementation
-more transparent, trustworthy, and secure for enterprises, platform providers,
-and chip manufacturers.  OpenTitan is administered by [lowRISC
-CIC](https://www.lowrisc.org) as a collaborative project to produce high
-quality, open IP for instantiation as a full-featured product. See the
-[OpenTitan site](https://opentitan.org/) and [OpenTitan
-docs](https://opentitan.org/book) for more information about the project.
+See the [OpenTitan site](https://opentitan.org/) and [OpenTitan docs](https://opentitan.org/book) for more information about the project.
 
 ## About this repository
 
-This repository contains the manufacturing files for the OpenTitan Hyperdebug Shield development platform, codenamed 'TEACUP' 
-created as part of the OpenTitan project. It exists to enable collaboration across partners participating in the OpenTitan project.
+This repository contains the manufacturing files for the OpenTitan Hyperdebug Shield development platform, codenamed 'TEACUP' created as part of the OpenTitan project. It exists to enable collaboration across partners participating in the OpenTitan project.
 
 ### What is the OpenTitan Hyperdebug Shield?
 
 ![hyp_ot](/images/hyp_ot.png)
 
-The OpenTitan Hyperdebug Shield, codenamed TEACUP, is a development board which connects to the STM32F552 Nucleo, (ST Part Number: [NUCLEO-L552ZE-Q
-](https://www.st.com/en/evaluation-tools/nucleo-l552ze-q.html). This development board allows for developing and provisiong of Nuvoton's
-implementation of OpenTitan, the NPCR100T.
+The OpenTitan Hyperdebug Shield, codenamed TEACUP, is a development board which connects to the STM32F552 Nucleo, (ST Part Number: [NUCLEO-L552ZE-Q](https://www.st.com/en/evaluation-tools/nucleo-l552ze-q.html). This development board allows for developing and provisioning of Nuvoton's implementation of OpenTitan, the NPCR100T.
 
 The OpenTitan Hyperdebug Shield contains:
 - 1x BOYD Corp. 718-SW08105-508-B1 9x9 0.5mm BGA socket (Socket Optional)
@@ -58,7 +48,10 @@ For detailed documentation of the software and tooling, please see [docs.opentit
     ├── images                  # Images used on this repository
     └── README.md				# This file
 
+## How to contribute
+
+Have a look at [CONTRIBUTING](https://github.com/lowRISC/opentitan/CONTRIBUTING.md) and our [documentation on project organization and processes](./doc/project_governance/README.md) for guidelines on how to contribute code to this repository.
+
 ## Licensing
 
-Unless otherwise noted, everything in this repository is covered by the Apache
-License, Version 2.0 (see [LICENSE](https://github.com/lowRISC/opentitan-hyperdebug-shield/LICENSE) for full text).
+Unless otherwise noted, everything in this repository is covered by the Apache License, Version 2.0 (see [LICENSE](https://github.com/lowRISC/opentitan-hyperdebug-shield/LICENSE) for full text).
